@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588331010865",
+    "project_id": "triviatrek-f928e",
+    "storage_bucket": "triviatrek-f928e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588331010865:android:03d13d45a0273a3bd7be10",
+        "android_client_info": {
+          "package_name": "com.example.triviatrek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcv3B4ZdxKx0E7nVruYsa3jGDUx89gv2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">588331010865</string>
+    <string name="google_api_key" translatable="false">AIzaSyCcv3B4ZdxKx0E7nVruYsa3jGDUx89gv2c</string>
+    <string name="google_app_id" translatable="false">1:588331010865:android:03d13d45a0273a3bd7be10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCcv3B4ZdxKx0E7nVruYsa3jGDUx89gv2c</string>
+    <string name="google_storage_bucket" translatable="false">triviatrek-f928e.appspot.com</string>
+    <string name="project_id" translatable="false">triviatrek-f928e</string>
+</resources>
